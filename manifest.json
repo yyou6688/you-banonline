@@ -1,0 +1,17 @@
+{
+  "name": "You-网店 – Workbench",
+  "short_name": "You-网店",
+  "description": "Bàn làm việc quản lí bán hàng handmade từ A-Z: marketing, tư vấn, đóng gói, thanh lý, gom đơn, sản phẩm mới, xu hướng, kênh mạng xã hội.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F2FB",
+  "theme_color": "#B7A4E8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
